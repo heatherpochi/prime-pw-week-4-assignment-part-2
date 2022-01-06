@@ -1,0 +1,22 @@
+header{
+  background-color: #99994d;
+  text-align: center;
+}
+
+.info{
+  background-color: #d4d4aa;
+  color:  #9933ff;
+  text-align: center;
+}
+
+h3{
+  background-color: #f6f6ee;
+  color: #bf80ff;
+  text-align: center;
+}
+
+img{
+  width: 80%;
+  display: block;
+  margin: auto;
+}
