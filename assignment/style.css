@@ -19,4 +19,6 @@ img{
   width: 80%;
   display: block;
   margin: auto;
+  border: 1px #bbbb77 solid;
+  box-shadow: 5px 5px 8px #e5e5cc;
 }
